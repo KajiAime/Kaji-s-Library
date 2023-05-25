@@ -7,4 +7,4 @@ It contains a table for:
 -Borrowers
 -Loans
 
-# Modify it so that it may create, update and delete instances of the above table.
+# Modify it so that it may create, update and delete instances of the above tables.
